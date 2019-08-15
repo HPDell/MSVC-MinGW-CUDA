@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+
+**/.vs
+**/x64
